@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am Vijay 
-i am pursuing bachoelor degree in CSE
+
+I am pursuing bachoelor degree in CSE
 <!--
 **vijayv15/vijayv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
